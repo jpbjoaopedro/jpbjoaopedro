@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+There+" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&pause=1000&center=true&vCenter=true&random=false&width=913&lines=Hello+There+)](https://git.io/typing-svg)
 # I'm João Pedro! 👋
 
 ### 🌟 Welcome to my GitHub profile!
@@ -9,7 +8,7 @@ I'm a passionate frontend developer with expertise in Django, React, PHP, infras
 ## 🚀 Skills and Technologies
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** PH, Django
+- **Backend Development:** Python, Django, PHP
 - **Infrastructure:** CentOS, Ubuntu Server, AlmaLinux
 - **DevOps:** Docker, GitHub Actions
 - **Version Control:** Git, GitHub
