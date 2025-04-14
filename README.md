@@ -3,15 +3,13 @@
 
 ### 🌟 Welcome to my GitHub profile!
 
-I'm a passionate frontend developer with expertise in Django, React, PHP, infrastructure, CentOS7 and web server. Here you'll find some of the projects I've been working on, showcasing my skills and interests in web development and infrastructure management.
 
 ## 🚀 Skills and Technologies
 
-- **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Python, Django, PHP
-- **Infrastructure:** CentOS, Ubuntu Server, AlmaLinux
+- **Backend Development:** Python, Java, NodeJS
+- **Infrastructure:** Ubuntu Server, AlmaLinux
 - **DevOps:** Docker, GitHub Actions
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Gitlab
 
 ## 📫 How to reach me
 
